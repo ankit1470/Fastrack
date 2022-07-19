@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "123000"
+    },
+    {
+      "id": "2",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "10000"
+    },
+    {
+      "id": "3",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "17000"
+    },
+    {
+      "id": "4",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "2000"
+    },
+    {
+      "id": "5",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "16000"
+    },
+    {
+      "id": "6",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "15000"
+    },
+    {
+      "id": "7",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "12000"
+    },
+    {
+      "id": "8",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "8000"
+    },
+    {
+      "id": "9",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "1000"
+    },
+    {
+      "id": "10",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "7000"
+    },
+    {
+      "id": "11",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "4000"
+    },
+    {
+      "id": "12",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "2000"
+    }
+  ],
+  "frontproducts": [
+    {
+      "id": "1",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "123000"
+    },
+    {
+      "id": "2",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "10000"
+    },
+    {
+      "id": "3",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "17000"
+    },
+    {
+      "id": "4",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "2000"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "7",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "12000"
+    },
+    {
+      "id": "2",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP03_1.jpg?impolicy=pqmed&imwidth=320",
+      "Title": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "Description": "Fastrack Reflex Curv is a stylish and feature-packed smartwatch with an amazing one of its kind 2.5D curved display. It is a Statement of Style and Comfort with a curved rectangular case and some head-turning colourful design options.",
+      "price": "10000"
+    }
+  ]
+}

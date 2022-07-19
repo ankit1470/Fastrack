@@ -1,0 +1,75 @@
+.navbar-top{
+    display:flex;
+    width: 100%;
+    height: 48px;
+    background-color:  #242424;
+    color: rgb(168, 168, 168);
+    text-align: center;
+    margin-top:0.1px;
+
+}
+/* .car{
+    border:1px solid red;
+} */
+.nav-ul{
+    display:flex;
+    list-style-type: none;
+    font: 650 10px Work Sans;
+    text-align: center;  
+    margin-top: 1%;
+    cursor: pointer;
+    
+}
+.top-right{
+  
+    margin-left:40%;
+  width: 45%;
+
+}
+.top-left{
+    
+     width: 31%;
+}
+.nav-li{
+    margin-right:8%;
+
+        width:80px;
+}
+.brands-li{
+    margin-left:12%;
+    margin-right:23%
+}
+.divider{
+    margin: 0;
+   border-color:aqua;
+ 
+}
+.main-navbar{
+    
+    display:flex;
+    width: 100%;
+    height: 70px;
+    /* border: 1px solid red; */
+    background-color:  #242424;
+}
+.main-ul {
+   display:flex;
+   list-style-type: none;
+   text-align: center;  
+   margin-top: 1.5%;
+   cursor: pointer;
+    color:white;
+   font-weight: bolder;
+font-size: 13px;
+}
+.main-li{
+    /* margin-right:3%; */
+     margin-top: 2%;
+     width: 150px;
+}
+
+.fastrack-logo{
+    margin-top: 1%;
+    height: 50px;
+    margin-left: 5%;
+}

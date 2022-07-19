@@ -1,0 +1,61 @@
+.main{
+    width:95%;
+    margin: auto;
+     margin-bottom: 15px;
+}
+.color_div{
+    width: 50%;
+    height: 1020px;
+   
+     background-color:#222222;
+}
+.first{
+    display:flex;
+
+}
+.first_image{
+    width: 55%;
+    height: 400px;
+    margin-left: -100px;
+    margin-top: 80px;
+}
+.second{
+display: flex;
+}
+.second_image{
+    width: 54%;
+    height: 400px;
+    margin-top: -470px;
+    margin-left:40px;
+}
+.text{
+   color: white;
+   font-weight: bolder;
+text-transform: uppercase;
+    font-size: 29px;
+   font-family: "Roboto",sans-serif; 
+font-weight: bolder;
+}
+.text_div{
+
+width:75%;
+font-weight: bolder;
+margin: auto;
+  line-height: 1.42857143;
+margin-top:150px;
+}
+.text2{
+      margin-top: -370px;
+            font-family: "Roboto",sans-serif; 
+            text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+width: 90%;
+padding:20px
+}
+.text2_div{
+    width:80%;
+    
+}

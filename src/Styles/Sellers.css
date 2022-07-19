@@ -1,0 +1,41 @@
+.title{
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    --sqd-brandColor: #000000;
+    direction: ltr;
+    unicode-bidi: isolate;
+    box-sizing: border-box;
+    color: inherit;
+    font: 30px "Work Sans",sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 32px 0 43px;
+}
+
+.item-container {
+  display: flex;
+  justify-content: center;
+  gap:2%;
+  width: 90%;
+
+  margin:auto;
+}
+.card {
+  text-align: center;
+  width:25%;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+  padding: 1em;   
+ 
+}
+.card:hover{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.img {
+  height: 270px;
+  width: auto;
+}
